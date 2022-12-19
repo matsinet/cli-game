@@ -1,12 +1,12 @@
 {
-  "name": "firequiz",
+  "name": "glgitbashgamecli",
   "version": "0.0.4",
-  "description": "Who wants to be a JavaScript millionaire?",
-  "homepage": "https://fireship.io",
+  "description": "",
+  "homepage": "",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fireship-io/javascript-millionaire"
+    "url": "https://github.com/Gerald-Lofton/Learn_Git_BASH_CLI_Game"
   },
   "main": "index.js",
   "scripts": {
