@@ -1,7 +1,7 @@
 {
-  "name": "glgitbashgamecli",
-  "version": "0.0.4",
-  "description": "",
+  "name": "gl-git-bash-quiz-cli",
+  "version": "1.0.0",
+  "description": "Quiz in the CLI to learn Git and Bash commands",
   "homepage": "",
   "type": "module",
   "repository": {
