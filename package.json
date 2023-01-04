@@ -1,7 +1,7 @@
 {
-  "name": "glgitbashgamecli",
-  "version": "0.0.4",
-  "description": "",
+  "name": "gl-git-bash-quiz-cli",
+  "version": "1.0.0",
+  "description": "Quiz in the CLI to learn Git and Bash commands",
   "homepage": "",
   "type": "module",
   "repository": {
@@ -20,6 +20,8 @@
     "gitignore": "^0.7.0",
     "gradient-string": "^2.0.0",
     "inquirer": "^8.2.0",
-    "nanospinner": "^1.0.0"
+    "nanospinner": "^1.0.0",
+    "node": "^19.3.0",
+    "npx": "^10.2.2"
   }
 }
